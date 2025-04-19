@@ -139,10 +139,3 @@ The dataset used is `Churn_Modelling.csv` with the following key features:
 This project is licensed under the MIT License.
 
 ---
-
-## Contact
-
-For questions or suggestions, please open an issue or contact the repository owner.
-
----
-```
